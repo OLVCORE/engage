@@ -1,0 +1,6 @@
+﻿# --- Exact Spotter dump ---
+*_files/            # pastas criadas pelo Chrome "Salvar página completa"
+*.download          # pedaços de JS baixados incompletos
+*.map               # sourcemaps gigantes
+.DS_Store
+Thumbs.db
